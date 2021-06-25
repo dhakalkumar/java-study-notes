@@ -1,4 +1,3 @@
-# java-study-notes
 ## Study notes for java
 
 ### Introduction
@@ -8,7 +7,7 @@ Feel free to fork / star / download ... whatever you want.
 
 ## Table of contents
 - [Big O notations](big-o-notation.md)
-- [Data Structures](#data-structures)
+- [Data Structures](data-structures.md)
   - [Arrays](#arrays)
   - [ArrayList](#arraylist)
   - [LinkedList](#linkedlist)
